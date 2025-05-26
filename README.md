@@ -58,4 +58,4 @@ with all the files merged in that order.
 Made with ❤️ by `Adithya Salian`
 
 ## 📜 License
-This project is open source and available under the MIT License.
+This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
